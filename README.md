@@ -15,6 +15,7 @@
   [SpringFramework学習メモ](https://github.com/hawkskf/work-memo-java-spring/blob/master/springframework-memo.md)
   - [ ] 適宜追記する
 - [ ] SpringBootのチュートリアルをやる（4/12-4/13）12h
+  - [ ] [Spring MVC チュートリアル実行メモ](https://github.com/hawkskf/springboot-tutorial/blob/master/serving-web-content.md)（4/12）4h
   
 - [ ] SpringBootでサンプルアプリを作ってみる
   - [ ] 設計・プロトタイプ製作
