@@ -12,7 +12,7 @@
 ## 予定と実績（毎日更新する）
 
 - [x] SpringFrameworkを含むSpringプロジェクトについてまとめる（4/12）4h
-  
+  [SpringFramework学習メモ](https://github.com/hawkskf/work-memo-java-spring/blob/master/springframework-memo.md)
   - [ ] 適宜追記する
 - [ ] SpringBootのチュートリアルをやる（4/12-4/13）12h
   
