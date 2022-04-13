@@ -14,8 +14,8 @@
 - [x] SpringFrameworkを含むSpringプロジェクトについてまとめる（4/12）4h  
   [SpringFramework学習メモ](https://github.com/hawkskf/work-memo-java-spring/blob/master/springframework-memo.md)
   - [ ] 適宜追記する
-- [ ] SpringBootのチュートリアルをやる（4/12-4/13）12h
-  - [x] [Spring MVC チュートリアル実行メモ](https://github.com/hawkskf/springboot-tutorial/blob/master/serving-web-content.md)（4/12）6h
+- [x] SpringBootのチュートリアルをやる（4/12-4/13）12h
+  - [x] [Spring MVC チュートリアル実行メモ](https://github.com/hawkskf/springboot-tutorial/blob/master/serving-web-content.md)（4/12-13）6h
   - [x] [Spring RESTAPI チュートリアル実行メモ](https://github.com/hawkskf/springboot-tutorial/blob/master/rest-service.md)（4/13）2h
   - [x] [Handling Form Submission チュートリアル実行メモ](https://github.com/hawkskf/springboot-tutorial/blob/master/handling-form-submission.md)（4/13）2h
   
