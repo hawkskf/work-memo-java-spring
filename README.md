@@ -15,11 +15,13 @@
   [SpringFramework学習メモ](https://github.com/hawkskf/work-memo-java-spring/blob/master/springframework-memo.md)
   - [ ] 適宜追記する
 - [ ] SpringBootのチュートリアルをやる（4/12-4/13）12h
-  - [ ] [Spring MVC チュートリアル実行メモ](https://github.com/hawkskf/springboot-tutorial/blob/master/serving-web-content.md)（4/12）4h
+  - [x] [Spring MVC チュートリアル実行メモ](https://github.com/hawkskf/springboot-tutorial/blob/master/serving-web-content.md)（4/12）6h
+  - [x] [Spring RESTAPI チュートリアル実行メモ](https://github.com/hawkskf/springboot-tutorial/blob/master/rest-service.md)（4/13）2h
+  - [x] [Handling Form Submission チュートリアル実行メモ](https://github.com/hawkskf/springboot-tutorial/blob/master/handling-form-submission.md)（4/13）2h
   
 - [ ] SpringBootでサンプルアプリを作ってみる
-  - [ ] 設計・プロトタイプ製作
-  - [ ] 製造・ユニットテスト作成
+  - [ ] 設計・プロトタイプ製作（4/14-15)10h
+  - [ ] 製造・ユニットテスト作成（4/16-18)10h
   - [ ] 試験
   - [ ] リリース
 - [ ] 最近のJavaの新機能と差異についてまとめる
