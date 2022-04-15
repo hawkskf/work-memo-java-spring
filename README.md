@@ -20,11 +20,13 @@
   - [x] [Handling Form Submission チュートリアル実行メモ](https://github.com/hawkskf/springboot-tutorial/blob/master/handling-form-submission.md)（4/13）2h
   
 - [ ] SpringBootでサンプルアプリを作ってみる
-  - [ ] 設計（4/14-4/15)5h  
+  - [x] 設計（4/14-4/15)5h  
     [SpringBootサンプルアプリ（仮）](https://github.com/hawkskf/springboot-app-practice/blob/master/document/SpringBoot%E3%82%B5%E3%83%B3%E3%83%97%E3%83%AB%E3%82%A2%E3%83%97%E3%83%AA%EF%BC%88%E4%BB%AE%EF%BC%89.md)
-  - [ ] プロトタイプ製作（4/14-15)8h  
+  - [x] プロトタイプ製作（4/14-15)8h  
     [SpringBootサンプルアプリ_作業メモ](https://github.com/hawkskf/springboot-app-practice/blob/master/document/SpringBoot%E3%82%B5%E3%83%B3%E3%83%97%E3%83%AB%E3%82%A2%E3%83%97%E3%83%AA_%E4%BD%9C%E6%A5%AD%E3%83%A1%E3%83%A2.md)
-  - [ ] 製造・ユニットテスト作成（4/16-18)8h
+    - [x] SpringBootのディレクトリ構造の設計、Mybatis&DB（SQLite）の作り方にメドが立った
+  - [ ] 製造・ユニットテスト作成（4/18-21)16h
+    - 
   - [ ] 試験
   - [ ] リリース
 - [ ] 最近のJavaの新機能と差異についてまとめる
